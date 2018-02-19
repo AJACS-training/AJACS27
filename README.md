@@ -18,7 +18,7 @@
 
 ### プログラム
 #### 7月15日（金）
-13:00～13:20 「[データベースを統合する活動の今までとこれから](https://github.com/AJACS-training/AJACS27/blob/master/01_minowa/)」    
+13:00～13:20 「[データベースを統合する活動の今までとこれから](https://github.com/AJACS-training/AJACS27/tree/master/01_koso)」    
 高祖 歩美  
 （科学技術振興機構バイオサイエンスデータベースセンター)  
 
