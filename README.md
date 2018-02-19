@@ -23,31 +23,31 @@
 （科学技術振興機構バイオサイエンスデータベースセンター)  
 
 
-13:20～14:05 「[データベースを探す・検索する・ダウンロードする](https://github.com/AJACS-training/AJACS27/tree/master/01_koso)」  
+13:20～14:05 「[データベースを探す・検索する・ダウンロードする](https://github.com/AJACS-training/AJACS27/tree/master/02_mitsuhashi)」  
 三橋 信孝  
 （科学技術振興機構バイオサイエンスデータベースセンター）
 
 
-14:05～14:50 「[文献情報関連サービスの活用法](https://github.com/AJACS-training/AJACS27/tree/master/01_koso)」  
+14:05～14:50 「[文献情報関連サービスの活用法](https://github.com/AJACS-training/AJACS27/tree/master/03_yamamoto)」  
 山本 泰智  
 (情報・システム研究機構ライフサイエンス統合データベースセンター)
 
 
-15:10～15:55 「[HeliScope CAGE法について](https://github.com/AJACS-training/AJACS27/tree/master/01_koso」    
+15:10～15:55 「[HeliScope CAGE法について](https://github.com/AJACS-training/AJACS27/tree/master/04_ito)」    
 伊藤　昌可  
 （理化学研究所 オミックス基盤研究領域)  
 
 
-15:55～16:15 「[DBCLSにおける大規模データの利用技術開発](https://github.com/AJACS-training/AJACS27/tree/master/01_koso)」  
+15:55～16:15 「[DBCLSにおける大規模データの利用技術開発](https://github.com/AJACS-training/AJACS27/tree/master/05_bono)」  
 坊農 秀雅  
 （情報・システム研究機構ライフサイエンス統合データベースセンター）
 
 
-16:15～17:05 「[Sequence Read Archive(SRA)の活用術：その統計と検索](https://github.com/AJACS-training/AJACS27/tree/master/01_koso)」  
+16:15～17:05 「[Sequence Read Archive(SRA)の活用術：その統計と検索](https://github.com/AJACS-training/AJACS27/tree/master/06_nakazato)」  
 仲里 猛留 　
 （情報・システム研究機構ライフサイエンス統合データベースセンター）
 
 
-17:05～17:55 「[RefSeqの検索とRefEx（Reference Expression dataset）](https://github.com/AJACS-training/AJACS27/tree/master/01_koso)」  
+17:05～17:55 「[RefSeqの検索とRefEx（Reference Expression dataset）](https://github.com/AJACS-training/AJACS27/tree/master/07_naito)」  
 内藤 雄樹 
 （情報・システム研究機構ライフサイエンス統合データベースセンター）
