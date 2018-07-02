@@ -1,7 +1,5 @@
-<h3 id="content_1_0"><a id="lb015d8b" href="http://MotDB.DBCLS.jp/?AJACS27%2Fmeso#lb015d8b" title="lb015d8b"></a> 「RefSeqの検索とRefEx (Reference Expression dataset)」  </h3>
-<hr class="full_hr" />
-<p><a href="http://MotDB.DBCLS.jp/?AJACS27" title="AJACS27 (2400d)">AJACS本郷9</a> &gt; 「RefSeqの検索とRefEx (Reference Expression dataset)」</p>
-<hr class="full_hr" />
+<h1 id="content_1_0"><a id="lb015d8b" href="http://MotDB.DBCLS.jp/?AJACS27%2Fmeso#lb015d8b" title="lb015d8b"></a> 「RefSeqの検索とRefEx (Reference Expression dataset)」  </h1>
+
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>遺伝子を「さがす」ためのデータベース活用法の基礎を解説し、当センターで開発中の遺伝子検索サイト「GGRNA」および遺伝子発現量のリファレンスデータベース「RefEx」を紹介します。</li></ul>
 
 <a id=""></a><h3 id="content_1_1"><a id="g9759d2a"></a> 遺伝子をさがす（基礎）  </h3>
